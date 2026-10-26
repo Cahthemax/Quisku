@@ -1,0 +1,6 @@
+{
+  "name": "SADIT — Sistem Asesmen Digital Terintegrasi",
+  "description": "Aplikasi ulangan dan asesmen digital berbasis web dengan Exam Mode berkeamanan tinggi, timer waktu server, autosave real-time, bank soal multi-tipe, dan audit log pelanggaran untuk sekolah di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
